@@ -1,0 +1,15 @@
+ATM'den Para Yatırma Algoritması
+
+1- Giriş ekranı için start butonuna dokunun 
+
+2- Banka kartını cihaza entegre ediniz
+
+3- Şifre girin
+
+4- Eğer girdiğiniz şifre yanlışsa bir daha şifre isteyin eğer tekrardan girilen şifre yanlış ise algoritma bitir eğer doğru ise 5. Adımdan devam edin.
+
+5- Patikabanka hoşgeldiniz, ne yapmak istiyorsunuz? Eğer bire basarsanız para çekersiniz eğer ikiye basarsanız para yatırırsınız
+
+6- Eğer bire basarsanız sizden tutar soracak ve tutar gireceksiniz para çıkışı alıp kartınızı iade edecek ve algoritmadan çıkacaksiniz
+
+7- Eğer ikiye basarsanız yatırma işlemi yapacak size iki seçenek sunacak "kredi kartı ödemesi veya hesaba mı" diye birini seçip tutarı girecek. Eğer kredi kartı ödemesi olacaksa para hesabınızdan kredi kartı ödemesine geçerek yatırılacak veya ödediğiniz tutar hesaba yatıp kartı iade edecek ve algoritmadan çıkacaksınız
